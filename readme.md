@@ -53,3 +53,5 @@ Encrypts communication between clients and servers.
 ## Result
 
 Successfully captured and analyzed network traffic using Wireshark and exported the packet capture file for further analysis.
+
+Note: The packet capture file (.pcapng) was generated successfully during the task. Due to GitHub file size/upload limitations, the capture file has not been included in this repository.
